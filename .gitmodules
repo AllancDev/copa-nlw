@@ -1,0 +1,3 @@
+[submodule "copa-nlw"]
+	path = copa-nlw
+	url = git@github.com:AllancDev/copa-nlw.git
